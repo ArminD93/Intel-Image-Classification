@@ -1,5 +1,5 @@
 # Intel-Image-Classification
-bgxgv
+
 
 ## [**Raport**](https://github.com/ArminD93/Intel-Image-Classification/blob/dev/Intel_Image_Classification.ipynb)
 
